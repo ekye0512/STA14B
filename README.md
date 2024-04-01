@@ -2,11 +2,11 @@
 
 **Summary**
 
-The report delves into the dynamics of real estate markets across five major U.S. cities, primarily focusing on the relationship between property prices and various economic factors. It explores avenues to predict future trends in real estate prices through data analysis and modeling techniques.
+This report delves into the dynamics of real estate markets across five major U.S. cities, primarily focusing on the relationship between property prices and various economic factors. It explores avenues to predict future trends in real estate prices through data analysis and modeling techniques.
 
 **Introduction**
 
-The report begins by highlighting the surge in stock ownership among U.S. households, with 58% holding stocks, attributing this trend to financial instability and early retirement aspirations. Despite stocks being popular, real estate remains a favored long-term investment, ranking above stocks and gold. The stability and high returns associated with real estate make it an attractive investment option. The analysis aims to identify factors influencing real estate prices across major cities.
+This report begins by highlighting the surge in stock ownership among U.S. households, with 58% holding stocks, attributing this trend to financial instability and early retirement aspirations. Despite stocks being popular, real estate remains a favored long-term investment, ranking above stocks and gold. The stability and high returns associated with real estate make it an attractive investment option. The analysis aims to identify factors influencing real estate prices across major cities.
 
 **Methodology**
 
@@ -19,11 +19,11 @@ The report begins by highlighting the surge in stock ownership among U.S. househ
 
 - The analysis reveals nuances in real estate markets, with varying correlations between property characteristics and prices across cities.
 - Predictive models suggest a general upward trend in real estate prices, albeit with variations depending on city-specific factors.
-- The report underscores the importance of considering local economic dynamics, amenities, and policy factors in understanding real estate market trends.
+- This report underscores the importance of considering local economic dynamics, amenities, and policy factors in understanding real estate market trends.
 
 **Discussion**
 
-The report discusses the implications of findings for investors, policymakers, and individuals involved in real estate transactions. It emphasizes the significance of economic factors and local dynamics in shaping real estate markets.
+This report discusses the implications of findings for investors, policymakers, and individuals involved in real estate transactions. It emphasizes the significance of economic factors and local dynamics in shaping real estate markets.
 
 **Limitations**
 
@@ -32,4 +32,4 @@ The report discusses the implications of findings for investors, policymakers, a
 
 **Conclusion**
 
-In conclusion, the report provides insights into the complex interplay of factors influencing real estate prices in major U.S. cities. While highlighting trends and predictive models, it acknowledges the need for caution due to market volatility and limitations in data collection and analysis.
+In conclusion, this report provides insights into the complex interplay of factors influencing real estate prices in major U.S. cities. While highlighting trends and predictive models, it acknowledges the need for caution due to market volatility and limitations in data collection and analysis.
