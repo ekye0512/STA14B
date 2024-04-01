@@ -35,4 +35,4 @@ This report discusses the implications of findings for investors, policymakers, 
 In conclusion, this report provides insights into the complex interplay of factors influencing real estate prices in major U.S. cities. While highlighting trends and predictive models, it acknowledges the need for caution due to market volatility and limitations in data collection and analysis.
 
 
-Full Report Here: [Report]([url](https://github.com/ekye0512/STA14B/blob/main/STA141B%20Project%20Report%20-%20Final.pdf)
+Full Report Here: [Report]([url](https://github.com/ekye0512/STA14B/blob/main/STA141B%20Project%20Report%20-%20Final.pdf))
