@@ -1,6 +1,4 @@
-[# STA141B - Real Estate EDA and Predictor
-]([url](https://github.com/ekye0512/STA14B/blob/main/STA141B%20Project%20Report%20-%20Final.pdf))
-**Summary**
+# STA141B - Real Estate EDA and Predictor
 
 This report delves into the dynamics of real estate markets across five major U.S. cities, primarily focusing on the relationship between property prices and various economic factors. It explores avenues to predict future trends in real estate prices through data analysis and modeling techniques.
 
