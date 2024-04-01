@@ -1,4 +1,4 @@
-# STA141B - Real Estate Webscraping,EDA, and Predictor
+# STA141B - Real Estate EDA and Predictor
 
 **Summary**
 
